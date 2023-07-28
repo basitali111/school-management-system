@@ -8,7 +8,8 @@ ruby '2.7.1'
 
 
 
-gem 'rails',          '~> 5.1.3'
+gem 'rails'
+
 gem 'pg', '~> 1.2'
 gem 'puma',           '~> 3.7'
 gem 'sass-rails',     '~> 5.0'
